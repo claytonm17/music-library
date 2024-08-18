@@ -1,5 +1,6 @@
 class Song:
-    
+    # Not used in current iteration of project
+
     def __init__(
             self,
             key = None,
